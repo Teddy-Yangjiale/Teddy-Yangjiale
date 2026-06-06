@@ -65,10 +65,13 @@ I build reproducible research pipelines, performance-oriented C++ systems, and M
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Teddy-Yangjiale&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teddy-Yangjiale&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+| Snapshot | Details |
+|---|---|
+| Public profile | [github.com/Teddy-Yangjiale](https://github.com/Teddy-Yangjiale) |
+| Strongest public signal | OpenCV upstream contributions and C++ / CV performance work |
+| Featured repositories | `opencv`, `3DGS`, `quant`, `HFT`, `audio_analyzer`, `audio_train`, `Sustech_CS307_Course_Project` |
+| Main languages in featured work | C++, Python, Java, C, Shell, TypeScript |
+| Engineering style | Reproducible experiments, deterministic tests, benchmark-aware systems, documented tradeoffs |
 
 ## Current Direction
 
